@@ -29,7 +29,28 @@ struct StudentData
 			this->first_name = raw_student_data.substr(found_delimiter + 1);
 		}
 	}
+
+	std::string getRepresentation() const
+	{
+		// Returns a basic string representation of the student
+
+		return "First Name: " + this->first_name + " | " + "Last Name: " + this->last_name;
+	}
 };
+
+std::ostream& operator<< (std::ostream& out, StudentData const& s)
+{
+	out << s.getRepresentation();
+
+	return out;
+}
+
+
+template<typename T>
+void log(T message, std::ostream& dest = std::cout)
+{
+	dest << "LOG: " << message << std::endl;
+}
 
 
 int main()
@@ -42,6 +63,15 @@ int main()
 	{
 		students.push_back(StudentData(line));
 	}
+
+#ifdef _DEBUG
+	log("DEBUG: Read students:");
+	for (auto& s : students)
+	{
+		log(s);
+	}
+	log("DEBUG: End of read students");
+#endif
 	
 	return 1;
 }

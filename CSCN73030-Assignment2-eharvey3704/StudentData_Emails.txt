@@ -1,0 +1,33 @@
+Abeele,Gavin,Gabeele2160@conestogac.on.ca
+Al-Amiri,Rukia,Ralamiri4608@conestogac.on.ca
+Amiri,Zahra,Zamiri8543@conestogac.on.ca
+Awe,Demmy,Dawe3799@conestogac.on.ca
+Bowler,Brayden,Bbowler1740@conestogac.on.ca
+Brooker,Jacob,Jbrooker4815@conestogac.on.ca
+Denoon,Jonathan,Jdenoon5901@conestogac.on.ca
+Fischer,Eric,Efischer6807@conestogac.on.ca
+Foster,Cole,Cfoster5841@conestogac.on.ca
+Ganesh Babu,Sri Hari,Sganeshbabu0808@conestogac.on.ca
+Harvey,Emil,Eharvey3704@conestogac.on.ca
+Horvath,Thomas,Thorvath6447@conestogac.on.ca
+Jakda,Eazaz,Ejakda2584@conestogac.on.ca
+Jovanovic,Milan,Mjovanovic3875@conestogac.on.ca
+Kuehl,Sean,Skuehl5390@conestogac.on.ca
+Lam,Jacky,Jlam5676@conestogac.on.ca
+Langevin,Justin,Jlangevin8380@conestogac.on.ca
+Le,Rachel,Tle4486@conestogac.on.ca
+Mangat,Navdeep,Nmangat0337@conestogac.on.ca
+Pearce,Jonah,Jpearce1558@conestogac.on.ca
+Persaud,Matthew,Mpersaud4116@conestogac.on.ca
+Prince,Nicholas,Nprince3037@conestogac.on.ca
+Sasso,Anthony,Asasso2883@conestogac.on.ca
+Smith,Danny,Dsmith2304@conestogac.on.ca
+So,Raven,Rso2794@conestogac.on.ca
+Sparks,Torin,Tsparks9038@conestogac.on.ca
+Stencell,Karl,Kstencell6368@conestogac.on.ca
+Syed,Ali,Asyed8200@conestogac.on.ca
+Thakkar,Pankit Chandrakant,Pthakkar8404@conestogac.on.ca
+Thulaseedharan Pillai,Arun Kumar,Athulaseedharan0760@conestogac.on.ca
+Vaghela,Dhyey Brijeshkumar,Dvaghela7354@conestogac.on.ca
+Vuksic,Josh,Jvuksic6070@conestogac.on.ca
+Ward,Mason,Mward7091@conestogac.on.ca
